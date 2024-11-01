@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://dier.yhjiao.com/'
+window.routerBase = 'https://dff5.8889818.xyz/'
 window.settings = {
   // 站点名称
   title: '老八云',
